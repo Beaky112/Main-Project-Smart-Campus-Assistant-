@@ -1,0 +1,23 @@
+The requirements for Smart Campus Assistant Project are:
+
+1. Install and Update Python
+Ensure that Python (version 3.7 or higher) is installed and up to date on your system. 
+2. Install Required Python Libraries
+The following libraries are needed for the core functionalities of the Smart Campus Assistant, including natural language processing, voice interaction, and system utilities:
+
+Built-in Libraries:
+random, datetime, re, logging, typing.Optional (no installation needed)
+
+
+3. Install Django for Frontend Integration
+This project uses Django to provide a web interface. Ensure Django is installed:
+
+pip install Django
+
+4. Running the Project
+After installing all dependencies, start the project using the following command in your terminal:
+
+python manage.py runserver
+
+5. Once the server is running, a local development URL will be provided (e.g., http://127.0.0.1:8000/).
+Open this link in your browser to access the Smart Campus Assistant web application.
